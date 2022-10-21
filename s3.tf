@@ -1,0 +1,1 @@
+# the web content is store in s3 bucket
